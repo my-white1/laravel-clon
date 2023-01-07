@@ -1,0 +1,15 @@
+{
+    "name": "yahyobek/laravel-clon",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "my-white1",
+            "email": "mywhite060608@gmail.com"
+        }
+    ],
+    "require": {}
+}
